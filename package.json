@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Antoine Staquet",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.14.5",
     "@babel/core": "^7.14.6",
